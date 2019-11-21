@@ -15,6 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::resource('/cruds', 'CrudsController', [
-    'except' => ['edit', 'show', 'store']
-]);
+//Route::get('/{any}', 'SinglePageController@index')->where('any', '.*');
+

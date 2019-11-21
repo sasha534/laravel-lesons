@@ -76,3 +76,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+https://medium.com/js-dojo/the-ultimate-vue-js-laravel-crud-tutorial-3640baf7eda0
+
+https://github.com/herusdianto/laravel-vue-crud
+
+
+https://medium.com/@weehong/laravel-5-7-vue-vue-router-spa-5e07fd591981
